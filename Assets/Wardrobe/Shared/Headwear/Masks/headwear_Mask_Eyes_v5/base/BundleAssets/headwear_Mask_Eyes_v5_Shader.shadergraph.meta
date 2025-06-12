@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1dbb998326a83ce49bee719a6abf2e2a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: headwear_mask_eyes_v5_base
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
